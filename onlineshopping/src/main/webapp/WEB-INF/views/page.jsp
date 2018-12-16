@@ -29,7 +29,8 @@
     <!-- Bootstrap Core CSS -->
     <link href="${css}/bootstrap.min.css" rel="stylesheet"> 
     
-     <!-- Bootstrap Yeti Theme CSS -->
+    <!-- Bootstrap Yeti Theme CSS -->
+    <link href="${css}/bootstrap-readable-theme.css" rel="stylesheet"> 
 
     <!-- Custom CSS -->
 	     <link href="${css}/shop-homepage.css" rel="stylesheet">
