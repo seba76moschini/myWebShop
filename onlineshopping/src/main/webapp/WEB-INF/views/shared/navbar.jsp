@@ -1,4 +1,4 @@
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+ <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
@@ -17,7 +17,7 @@
                         <a href="${contextRoot}/about">About</a>
                     </li>
                     <li id="listProducts">
-                        <a href="${contextRoot}/listProducts">Products</a>
+                        <a href="${contextRoot}/listProducts">View Products</a>
                     </li>
                     <li id="contact">
                         <a href="${contextRoot}/contact">Contact</a>
